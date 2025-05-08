@@ -1,0 +1,116 @@
+{
+  "env_info": {
+    "env_id": "ColorRoofStack-v1",
+    "env_kwargs": {
+      "obs_mode": "state",
+      "sim_backend": "physx_cpu",
+      "render_backend": "cpu",
+      "render_mode": "rgb_array",
+      "shader_dir": "default"
+    },
+    "max_episode_steps": 150
+  },
+  "commit_info": null,
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 40194941,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 120,
+      "reset_kwargs": {
+        "options": {}
+      },
+      "success": false
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 1642857692,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 120,
+      "reset_kwargs": {
+        "options": {}
+      },
+      "success": false
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 2143436973,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 120,
+      "reset_kwargs": {
+        "options": {}
+      },
+      "success": false
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 56726128,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 120,
+      "reset_kwargs": {
+        "options": {}
+      },
+      "success": false
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 486979249,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 120,
+      "reset_kwargs": {
+        "options": {}
+      },
+      "success": false
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 1096548337,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 120,
+      "reset_kwargs": {
+        "options": {}
+      },
+      "success": false
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 214636784,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 120,
+      "reset_kwargs": {
+        "options": {}
+      },
+      "success": false
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 768078775,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 120,
+      "reset_kwargs": {
+        "options": {}
+      },
+      "success": false
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 796319576,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 120,
+      "reset_kwargs": {
+        "options": {}
+      },
+      "success": false
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 228722706,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 120,
+      "reset_kwargs": {
+        "options": {}
+      },
+      "success": false
+    }
+  ]
+}
